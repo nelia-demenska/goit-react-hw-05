@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 12px 40px;
+    width: 100vw;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    margin: 0px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    font-size: 24px;
+}

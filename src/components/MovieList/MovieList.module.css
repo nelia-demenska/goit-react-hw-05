@@ -1,0 +1,15 @@
+.movieList {
+    list-style: none;
+}
+
+.link {
+    font-size: 20px;
+    line-height: 1.5;
+    color: #007bff;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.link:active {
+    color: red;
+}
